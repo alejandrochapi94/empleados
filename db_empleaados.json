@@ -1,0 +1,84 @@
+{
+  "empleados": [
+    {
+      "id": 100245478,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "correo": "juan.perez@example.com",
+      "telefono": "+1234567890",
+      "cargo": "Gerente"
+    },
+    {
+      "id": 100245479,
+      "nombre": "Ana",
+      "apellido": "Gómez",
+      "correo": "ana.gomez@example.com",
+      "telefono": "+1234567891",
+      "cargo": "Desarrollador"
+    },
+    {
+      "id": 100245480,
+      "nombre": "Carlos",
+      "apellido": "Ramírez",
+      "correo": "carlos.ramirez@example.com",
+      "telefono": "+1234567892",
+      "cargo": "Analista"
+    },
+    {
+      "id": 100245481,
+      "nombre": "María",
+      "apellido": "Fernández",
+      "correo": "maria.fernandez@example.com",
+      "telefono": "+1234567893",
+      "cargo": "Diseñadora"
+    },
+    {
+      "id": 100245482,
+      "nombre": "Pedro",
+      "apellido": "López",
+      "correo": "pedro.lopez@example.com",
+      "telefono": "+1234567894",
+      "cargo": "Administrador"
+    },
+    {
+      "id": 100245483,
+      "nombre": "Lucía",
+      "apellido": "Martínez",
+      "correo": "lucia.martinez@example.com",
+      "telefono": "+1234567895",
+      "cargo": "Soporte Técnico"
+    },
+    {
+      "id": 100245484,
+      "nombre": "Andrés",
+      "apellido": "Vásquez",
+      "correo": "andres.vasquez@example.com",
+      "telefono": "+1234567896",
+      "cargo": "Marketing"
+    },
+    {
+      "id": 100245485,
+      "nombre": "Laura",
+      "apellido": "Mendoza",
+      "correo": "laura.mendoza@example.com",
+      "telefono": "+1234567897",
+      "cargo": "Recursos Humanos"
+    },
+    {
+      "id": 100245486,
+      "nombre": "Diego",
+      "apellido": "Sánchez",
+      "correo": "diego.sanchez@example.com",
+      "telefono": "+1234567898",
+      "cargo": "Ingeniero"
+    },
+    {
+      "id": 100245487,
+      "nombre": "Sofía",
+      "apellido": "Rojas",
+      "correo": "sofia.rojas@example.com",
+      "telefono": "+1234567899",
+      "cargo": "Contadora"
+    }
+  ]
+}
