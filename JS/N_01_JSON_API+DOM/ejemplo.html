@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gender Buttons</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+</head>
+<body>
+    <h1 class="text-center">Data System Client</h1>
+    <div class="container">
+        <div class="row mt-5">
+            <div class="col text-end">
+                <button type="button" class="btn btn-primary btn-lg">MALE</button>
+            </div>
+            <div class="col">
+                <button type="button" class="btn btn-pink btn-lg">FEMALE</button>
+                
+            </div>
+        </div>
+    </div>
+
+    <h2 class="mb-5">Data Client</h2>
+        <!-- Add your data client here -->
+
+
+
+        
+
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+    <script>
+        // Agregamos colores personalizados que no hay en bootstrap
+        const femaleButton = document.querySelector('.btn-pink');
+        femaleButton.style.backgroundColor = '#FF69B4'; // Pink color
+        femaleButton.style.borderColor = '#FF69B4';
+        femaleButton.style.color = 'white';
+    </script>
+    <script src="script.js"></script>
+</body>
+</html>
